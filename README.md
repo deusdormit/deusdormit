@@ -2,7 +2,7 @@
 
 I'm Freya, an Australian developer specialising in frontend and backend-for-frontend.
 
-![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=20232a)
 ![Static Badge](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React%20Native-1F232A?style=for-the-badge&logo=react&logoColor=white)
