@@ -8,9 +8,6 @@ I'm Freya, an Australian developer specialising in frontend and backend-for-fron
 ![Static Badge](https://img.shields.io/badge/React%20Native-1F232A?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) </br>
-![Static Badge](https://img.shields.io/badge/Tanstack%20Query-FC4C2C?style=for-the-badge&logo=reactquery&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) </br>
 ![Static Badge](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
