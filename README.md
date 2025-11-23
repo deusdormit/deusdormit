@@ -1,5 +1,5 @@
 ### `init freya` 
-### Hey! 🪼
+### Hey!
 
 I'm Freya, an Australian developer specialising in frontend and backend-for-frontend.
 
