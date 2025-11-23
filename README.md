@@ -21,6 +21,3 @@ I'm currently learning: </br>
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) </br>
 
-<i>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." </i>
-— Linus Torvalds
-
