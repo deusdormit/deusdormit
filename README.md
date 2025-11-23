@@ -49,3 +49,4 @@ I'm currently learning: </br>
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) </br>
 
 
+[![Freya's GitHub stats](https://github-readme-stats.vercel.app/api?username=deusdormit&theme=tokyonight)](https://github.com/deusdormit/github-readme-stats)
