@@ -47,6 +47,3 @@ I'm currently learning: </br>
 ![Static Badge](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=20232a)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) </br>
-
-
-[![Freya's GitHub stats](https://github-readme-stats.vercel.app/api?username=deusdormit&theme=tokyonight)](https://github.com/deusdormit/github-readme-stats)
