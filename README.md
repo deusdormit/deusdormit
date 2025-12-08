@@ -1,4 +1,8 @@
-![Image](./desknight.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./desknight.png">
+  <source media="(prefers-color-scheme: light)" srcset="./deskday.png">
+  <img alt="Banner" src="./desknight.png">
+</picture>
 
 ### `init freya` 
 
