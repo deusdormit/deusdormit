@@ -6,7 +6,7 @@
 
 ### `init deusdormit` 
 
-Hey! I'm an Australian developer specialising in web and mobile dev with additional skills in OOP for game engines, interaction design & 3D art.
+Hey! I'm an Australian developer specialising in web and mobile dev. Also dabble in OOP for game engines, interaction design & 3D art.
 
 🔗 https://deusdormit.itch.io/
  <br>
