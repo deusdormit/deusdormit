@@ -8,7 +8,7 @@
 
 Hey! I'm an Australian developer specialising in frontend and backend-for-frontend. I have a blended skillset varying from functional web and mobile dev, to OOP in game engines, to interaction design, to 3D modelling and rendering.
 
-🕹️ Play my silly games at https://deusdormit.itch.io/
+🔗 https://deusdormit.itch.io/
  <br>
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
