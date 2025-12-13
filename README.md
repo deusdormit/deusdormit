@@ -8,6 +8,8 @@
 
 Hey! I'm an Australian developer specialising in frontend and backend-for-frontend.
 
+🕹️ Play my silly games at https://deusdormit.itch.io/
+
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=20232a)
 ![Static Badge](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)
@@ -25,5 +27,3 @@ I'm currently learning: </br>
 ![Static Badge](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=20232a)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) </br>
-
-Play my silly games at https://deusdormit.itch.io/
