@@ -6,9 +6,10 @@
 
 ### `init deusdormit` 
 
-Hey! I'm an Australian developer specialising in frontend and backend-for-frontend.
+Hey! I'm an Australian developer specialising in frontend and backend-for-frontend. I have a blended skillset varying from functional web and mobile dev, to OOP in game engines, to interaction design, to 3D modelling and rendering.
 
 🕹️ Play my silly games at https://deusdormit.itch.io/
+ <br>
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=20232a)
@@ -19,6 +20,7 @@ Hey! I'm an Australian developer specialising in frontend and backend-for-fronte
 ![Static Badge](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 I'm currently learning: </br>
