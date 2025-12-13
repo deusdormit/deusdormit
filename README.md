@@ -28,4 +28,4 @@ I'm currently learning: </br>
 ![Static Badge](https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=20232a)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) </br>
+![Static Badge](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) </br>
