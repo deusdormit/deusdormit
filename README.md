@@ -6,7 +6,7 @@
 
 ### `init deusdormit` 
 
-Hey! I'm an Australian developer specialising in frontend and backend-for-frontend. I have a blended skillset varying from functional web and mobile dev, to OOP in game engines, to interaction design, to 3D modelling and rendering.
+Hey! I'm an Australian developer specialising in frontend and backend-for-frontend with additional skills in OOP for game engines, interaction design & 3D art.
 
 🔗 https://deusdormit.itch.io/
  <br>
