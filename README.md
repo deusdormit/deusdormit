@@ -24,7 +24,7 @@ Australian dev specialising in web and mobile. Also familiar with OOP for game e
 ![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-I'm currently learning: </br>
+Learning: </br>
 
 ![Static Badge](https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=20232a)
