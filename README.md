@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./desknight.png">
-  <source media="(prefers-color-scheme: light)" srcset="./deskday.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./NIGHT.png">
+  <source media="(prefers-color-scheme: light)" srcset="./DAY.png">
   <img alt="Banner" src="./desknight.png">
 </picture>
 
